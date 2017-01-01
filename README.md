@@ -1,7 +1,10 @@
 # A Tribute to Carol Sukenis
 ### My submission to the Tribute Page project at [Free Code Camp](https://freecodecamp.com)
-
 ---
+###You can view this web page at https://ahollyer.github.io/tribute-pages/
+---
+
+###Project Notes
 
 This is one of my first web pages and represents my first time experimenting with Bootstrap. It was fun!
 

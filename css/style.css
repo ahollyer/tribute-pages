@@ -1,14 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Bitter|Cookie');
 
-.container-fluid {
-  padding-top: 80px;
-  padding-bottom: 80px;
+body {
+  font-family: 'Bitter', serif;
 }
+
+h1, h2, h3, h4 {
+   margin: 50px auto;
+ }
+
+ h5 {
+   margin-top: -50px;
+ }
+
+ img {
+   margin-top: 50px;
+   margin-bottom: 50px;
+ }
+
+ .thumbnail img {
+   margin: 0;
+ }
 
 .bg-1 {
   background: url(https://i.imgsafe.org/813ee8721c.jpg) no-repeat center center fixed;
   background-size: cover;
-  min-height: 1000px;
+  min-height: 100vh;
 }
 
 .bg-2 {
@@ -48,10 +64,6 @@
   background-color: #1b9eb7;
   font-family: 'Anton', sans-serif;
   font-size: 0.5em;
-}
-
-h2, h3, h4, h5, .caption {
-  font-family: 'Bitter', serif;
 }
 
 #footer {
